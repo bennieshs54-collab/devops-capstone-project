@@ -220,11 +220,11 @@ docker run -p 3000:3000 devops-capstone-app:latest
 
 Test:
 
-curl http://localhost:3000
+curl http://15.252.144.112:3000
 
 Health endpoint:
 
-curl http://localhost:3000/health
+curl http://15.252.144.112:3000/health
 ☁️ AWS Infrastructure
 
 The infrastructure is provisioned using Terraform instead of manually creating every AWS resource through the AWS Console.
