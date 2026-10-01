@@ -1,4 +1,4 @@
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/15eb8c6c-4f43-4791-8f39-2aa9de3b96ba" />📌 Project Overview
+📌 Project Overview
 
 This project demonstrates the design and implementation of an end-to-end DevOps pipeline for deploying a containerized web application on AWS.
 
